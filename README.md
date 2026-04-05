@@ -15,6 +15,8 @@ Instead of using the default Flask development server, I implemented a scalable 
 ✅ Enabled Nginx service with systemctl
 ✅ Verified public access via EC2 Public IP
 
+![Alt Text](https://github.com/lalkrishna24/Production-Ready-Flask-Deployment-on-AWS-EC2-Gunicorn-Nginx-/blob/9c67a14506d73135f352480aa943f5332e7c6d15/Screenshot%202026-02-14%20171628.png)
+
 ⚙️ Tech Stack:
  • AWS EC2
  • Python 3
